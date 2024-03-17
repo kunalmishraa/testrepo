@@ -13,6 +13,7 @@ def main():
     print("Email Address:", email)
     print("Number of email addresses stored:", num_emails)
 
+print("Hello world")
 
 if __name__ == "__main__":
     main()
